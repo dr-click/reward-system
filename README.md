@@ -19,3 +19,13 @@ System for calculating rewards based on recommendations of customers.
   > Ruby 2.6.1
 
   > Rspec
+
+## API Cals:
+
+  > POST /rewards : Calculate the rewards score.
+
+    > Data attributes : file (contains the recommendations list).
+
+## Tests
+
+  > run test `rspec`
